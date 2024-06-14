@@ -1,0 +1,249 @@
+[
+  {"name": "Phone 1", "price": 299.99, "rating": 4.5, "company": "AMZ", "discount": 10, "category": "Phone"},
+  {"name": "Computer 1", "price": 899.99, "rating": 4.0, "company": "AMZ", "discount": 15, "category": "Computer"},
+  {"name": "TV 1", "price": 499.99, "rating": 4.8, "company": "AMZ", "discount": 5, "category": "TV"},
+  {"name": "Earphone 1", "price": 49.99, "rating": 4.3, "company": "AMZ", "discount": 20, "category": "Earphone"},
+  {"name": "Tablet 1", "price": 199.99, "rating": 4.6, "company": "AMZ", "discount": 25, "category": "Tablet"},
+  {"name": "Charger 1", "price": 19.99, "rating": 4.2, "company": "AMZ", "discount": 15, "category": "Charger"},
+  {"name": "Mouse 1", "price": 29.99, "rating": 4.7, "company": "AMZ", "discount": 10, "category": "Mouse"},
+  {"name": "Keypad 1", "price": 39.99, "rating": 4.4, "company": "AMZ", "discount": 5, "category": "Keypad"},
+  {"name": "Bluetooth 1", "price": 24.99, "rating": 4.1, "company": "AMZ", "discount": 20, "category": "Bluetooth"},
+  {"name": "Pendrive 1", "price": 14.99, "rating": 4.0, "company": "AMZ", "discount": 10, "category": "Pendrive"},
+  {"name": "Remote 1", "price": 49.99, "rating": 4.5, "company": "AMZ", "discount": 15, "category": "Remote"},
+  {"name": "Speaker 1", "price": 99.99, "rating": 4.8, "company": "AMZ", "discount": 25, "category": "Speaker"},
+  {"name": "Headset 1", "price": 79.99, "rating": 4.3, "company": "AMZ", "discount": 20, "category": "Headset"},
+  {"name": "Laptop 1", "price": 1299.99, "rating": 4.6, "company": "AMZ", "discount": 30, "category": "Laptop"},
+  {"name": "PC 1", "price": 799.99, "rating": 4.7, "company": "AMZ", "discount": 5, "category": "PC"},
+  {"name": "Phone 2", "price": 319.99, "rating": 4.1, "company": "FLP", "discount": 10, "category": "Phone"},
+  {"name": "Computer 2", "price": 919.99, "rating": 4.4, "company": "FLP", "discount": 15, "category": "Computer"},
+  {"name": "TV 2", "price": 529.99, "rating": 4.9, "company": "FLP", "discount": 5, "category": "TV"},
+  {"name": "Earphone 2", "price": 59.99, "rating": 4.5, "company": "FLP", "discount": 20, "category": "Earphone"},
+  {"name": "Tablet 2", "price": 209.99, "rating": 4.6, "company": "FLP", "discount": 25, "category": "Tablet"},
+  {"name": "Charger 2", "price": 29.99, "rating": 4.3, "company": "FLP", "discount": 15, "category": "Charger"},
+  {"name": "Mouse 2", "price": 39.99, "rating": 4.7, "company": "FLP", "discount": 10, "category": "Mouse"},
+  {"name": "Keypad 2", "price": 49.99, "rating": 4.5, "company": "FLP", "discount": 5, "category": "Keypad"},
+  {"name": "Bluetooth 2", "price": 34.99, "rating": 4.1, "company": "FLP", "discount": 20, "category": "Bluetooth"},
+  {"name": "Pendrive 2", "price": 19.99, "rating": 4.0, "company": "FLP", "discount": 10, "category": "Pendrive"},
+  {"name": "Remote 2", "price": 59.99, "rating": 4.5, "company": "FLP", "discount": 15, "category": "Remote"},
+  {"name": "Speaker 2", "price": 109.99, "rating": 4.8, "company": "FLP", "discount": 25, "category": "Speaker"},
+  {"name": "Headset 2", "price": 89.99, "rating": 4.3, "company": "FLP", "discount": 20, "category": "Headset"},
+  {"name": "Laptop 2", "price": 1399.99, "rating": 4.6, "company": "FLP", "discount": 30, "category": "Laptop"},
+  {"name": "PC 2", "price": 899.99, "rating": 4.7, "company": "FLP", "discount": 5, "category": "PC"},
+  {"name": "Phone 3", "price": 329.99, "rating": 4.1, "company": "SNP", "discount": 10, "category": "Phone"},
+  {"name": "Computer 3", "price": 939.99, "rating": 4.4, "company": "SNP", "discount": 15, "category": "Computer"},
+  {"name": "TV 3", "price": 549.99, "rating": 4.9, "company": "SNP", "discount": 5, "category": "TV"},
+  {"name": "Earphone 3", "price": 69.99, "rating": 4.5, "company": "SNP", "discount": 20, "category": "Earphone"},
+  {"name": "Tablet 3", "price": 219.99, "rating": 4.6, "company": "SNP", "discount": 25, "category": "Tablet"},
+  {"name": "Charger 3", "price": 39.99, "rating": 4.3, "company": "SNP", "discount": 15, "category": "Charger"},
+  {"name": "Mouse 3", "price": 49.99, "rating": 4.7, "company": "SNP", "discount": 10, "category": "Mouse"},
+  {"name": "Keypad 3", "price": 59.99, "rating": 4.5, "company": "SNP", "discount": 5, "category": "Keypad"},
+  {"name": "Bluetooth 3", "price": 44.99, "rating": 4.1, "company": "SNP", "discount": 20, "category": "Bluetooth"},
+  {"name": "Pendrive 3", "price": 24.99, "rating": 4.0, "company": "SNP", "discount": 10, "category": "Pendrive"},
+  {"name": "Remote 3", "price": 69.99, "rating": 4.5, "company": "SNP", "discount": 15, "category": "Remote"},
+  {"name": "Speaker 3", "price": 119.99, "rating": 4.8, "company": "SNP", "discount": 25, "category": "Speaker"},
+  {"name": "Headset 3", "price": 99.99, "rating": 4.3, "company": "SNP", "discount": 20, "category": "Headset"},
+  {"name": "Laptop 3", "price": 1499.99, "rating": 4.6, "company": "SNP", "discount": 30, "category": "Laptop"},
+  {"name": "PC 3", "price": 999.99, "rating": 4.7, "company": "SNP", "discount": 5, "category": "PC"},
+  {"name": "Phone 4", "price": 349.99, "rating": 4.1, "company": "MYN", "discount": 10, "category": "Phone"},
+  {"name": "Computer 4", "price": 959.99, "rating": 4.4, "company": "MYN", "discount": 15, "category": "Computer"},
+  {"name": "TV 4", "price": 569.99, "rating": 4.9, "company": "MYN", "discount": 5, "category": "TV"},
+  {"name": "Earphone 4", "price": 79.99, "rating": 4.5, "company": "MYN", "discount": 20, "category": "Earphone"},
+  {"name": "Tablet 4", "price": 229.99, "rating": 4.6, "company": "MYN", "discount": 25, "category": "Tablet"},
+  {"name": "Charger 4", "price": 49.99, "rating": 4.3, "company": "MYN", "discount": 15, "category": "Charger"},
+  {"name": "Mouse 4", "price": 59.99, "rating": 4.7, "company": "MYN", "discount": 10, "category": "Mouse"},
+  {"name": "Keypad 4", "price": 69.99, "rating": 4.5, "company": "MYN", "discount": 5, "category": "Keypad"},
+  {"name": "Bluetooth 4", "price": 54.99, "rating": 4.1, "company": "MYN", "discount": 20, "category": "Bluetooth"},
+  {"name": "Pendrive 4", "price": 29.99, "rating": 4.0, "company": "MYN", "discount": 10, "category": "Pendrive"},
+  {"name": "Remote 4", "price": 79.99, "rating": 4.5, "company": "MYN", "discount": 15, "category": "Remote"},
+  {"name": "Speaker 4", "price": 129.99, "rating": 4.8, "company": "MYN", "discount": 25, "category": "Speaker"},
+  {"name": "Headset 4", "price": 109.99, "rating": 4.3, "company": "MYN", "discount": 20, "category": "Headset"},
+  {"name": "Laptop 4", "price": 1599.99, "rating": 4.6, "company": "MYN", "discount": 30, "category": "Laptop"},
+  {"name": "PC 4", "price": 1099.99, "rating": 4.7, "company": "MYN", "discount": 5, "category": "PC"},
+  {"name": "Phone 5", "price": 369.99, "rating": 4.1, "company": "AZO", "discount": 10, "category": "Phone"},
+  {"name": "Computer 5", "price": 979.99, "rating": 4.4, "company": "AZO", "discount": 15, "category": "Computer"},
+  {"name": "TV 5", "price": 589.99, "rating": 4.9, "company": "AZO", "discount": 5, "category": "TV"},
+  {"name": "Earphone 5", "price": 89.99, "rating": 4.5, "company": "AZO", "discount": 20, "category": "Earphone"},
+  {"name": "Tablet 5", "price": 239.99, "rating": 4.6, "company": "AZO", "discount": 25, "category": "Tablet"},
+  {"name": "Charger 5", "price": 59.99, "rating": 4.3, "company": "AZO", "discount": 15, "category": "Charger"},
+  {"name": "Mouse 5", "price": 69.99, "rating": 4.7, "company": "AZO", "discount": 10, "category": "Mouse"},
+  {"name": "Keypad 5", "price": 79.99, "rating": 4.5, "company": "AZO", "discount": 5, "category": "Keypad"},
+  {"name": "Bluetooth 5", "price": 64.99, "rating": 4.1, "company": "AZO", "discount": 20, "category": "Bluetooth"},
+  {"name": "Pendrive 5", "price": 34.99, "rating": 4.0, "company": "AZO", "discount": 10, "category": "Pendrive"},
+  {"name": "Remote 5", "price": 89.99, "rating": 4.5, "company": "AZO", "discount": 15, "category": "Remote"},
+  {"name": "Speaker 5", "price": 139.99, "rating": 4.8, "company": "AZO", "discount": 25, "category": "Speaker"},
+  {"name": "Headset 5", "price": 119.99, "rating": 4.3, "company": "AZO", "discount": 20, "category": "Headset"},
+  {"name": "Laptop 5", "price": 1699.99, "rating": 4.6, "company": "AZO", "discount": 30, "category": "Laptop"},
+  {"name": "PC 5", "price": 1199.99, "rating": 4.7, "company": "AZO", "discount": 5, "category": "PC"}
+]
+
+
+
+
+
+
+
+
+
+
+[
+  {
+    "name": "Phone 1",
+    "price": 299.99,
+    "rating": 4.5,
+    "company": "AMZ",
+    "discount": 10,
+    "category": "Phone"
+  },
+  {
+    "name": "Computer 1",
+    "price": 899.99,
+    "rating": 4.0,
+    "company": "AMZ",
+    "discount": 15,
+    "category": "Computer"
+  },
+  {
+    "name": "TV 1",
+    "price": 499.99,
+    "rating": 4.8,
+    "company": "AMZ",
+    "discount": 5,
+    "category": "TV"
+  },
+  {
+    "name": "Earphone 1",
+    "price": 49.99,
+    "rating": 4.3,
+    "company": "AMZ",
+    "discount": 20,
+    "category": "Earphone"
+  },
+  {
+    "name": "Tablet 1",
+    "price": 199.99,
+    "rating": 4.6,
+    "company": "AMZ",
+    "discount": 25,
+    "category": "Tablet"
+  },
+  {
+    "name": "Charger 1",
+    "price": 19.99,
+    "rating": 4.2,
+    "company": "AMZ",
+    "discount": 15,
+    "category": "Charger"
+  },
+  {
+    "name": "Mouse 1",
+    "price": 29.99,
+    "rating": 4.7,
+    "company": "AMZ",
+    "discount": 10,
+    "category": "Mouse"
+  },
+  {
+    "name": "Keypad 1",
+    "price": 39.99,
+    "rating": 4.4,
+    "company": "AMZ",
+    "discount": 5,
+    "category": "Keypad"
+  },
+  {
+    "name": "Bluetooth 1",
+    "price": 24.99,
+    "rating": 4.1,
+    "company": "AMZ",
+    "discount": 20,
+    "category": "Bluetooth"
+  },
+  {
+    "name": "Pendrive 1",
+    "price": 14.99,
+    "rating": 4.0,
+    "company": "AMZ",
+    "discount": 10,
+    "category": "Pendrive"
+  },
+  {
+    "name": "Remote 1",
+    "price": 49.99,
+    "rating": 4.5,
+    "company": "AMZ",
+    "discount": 15,
+    "category": "Remote"
+  },
+  {
+    "name": "Speaker 1",
+    "price": 99.99,
+    "rating": 4.8,
+    "company": "AMZ",
+    "discount": 25,
+    "category": "Speaker"
+  },
+  {
+    "name": "Headset 1",
+    "price": 79.99,
+    "rating": 4.3,
+    "company": "AMZ",
+    "discount": 20,
+    "category": "Headset"
+  },
+  {
+    "name": "Laptop 1",
+    "price": 1299.99,
+    "rating": 4.6,
+    "company": "AMZ",
+    "discount": 30,
+    "category": "Laptop"
+  },
+  {
+    "name": "PC 1",
+    "price": 799.99,
+    "rating": 4.7,
+    "company": "AMZ",
+    "discount": 5,
+    "category": "PC"
+  },
+  {
+    "name": "Phone 2",
+    "price": 319.99,
+    "rating": 4.1,
+    "company": "FLP",
+    "discount": 10,
+    "category": "Phone"
+  },
+  {
+    "name": "Computer 2",
+    "price": 919.99,
+    "rating": 4.4,
+    "company": "FLP",
+    "discount": 15,
+    "category": "Computer"
+  },
+  {
+    "name": "TV 2",
+    "price": 529.99,
+    "rating": 4.9,
+    "company": "FLP",
+    "discount": 5,
+    "category": "TV"
+  },
+  {
+    "name": "Earphone 2",
+    "price": 59.99,
+    "rating": 4.5,
+    "company": "FLP",
+    "discount": 20,
+    "category": "Earphone"
+  },
+  {
+    "name": "Tablet 2",
+    "price": 209.99,
+    "rating": 4.6,
+    "company": "FLP",
+    "discount": 25,
+    "category": "Tablet"
+  }
+]
